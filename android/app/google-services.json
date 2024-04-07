@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "68228839783",
+    "project_id": "abdulahsidikuts",
+    "storage_bucket": "abdulahsidikuts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68228839783:android:4b2e456a7852a9b6c157c2",
+        "android_client_info": {
+          "package_name": "com.example.abdullahsidik_uts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68228839783-hr6ttnesh967bb9ret89bt2bipjjbamg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abdullahsidik_uts",
+            "certificate_hash": "10f7eed1b20deb085e1c1799188c30ea0685fe3c"
+          }
+        },
+        {
+          "client_id": "68228839783-r5a8h4quvql2e8odt7o33binmck1hk5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzPSYRLFe2WptRjtL3R4_esyzPzzZDR5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68228839783-r5a8h4quvql2e8odt7o33binmck1hk5p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68228839783-bqtu1k8s71r426su6in2l6gdmio1hdfo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.abdullahsidikUts.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
